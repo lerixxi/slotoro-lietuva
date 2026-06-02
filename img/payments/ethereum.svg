@@ -1,0 +1,7 @@
+<svg width="120" height="40" viewBox="0 0 120 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <g transform="translate(16 20)">
+    <path d="M0 -13 L9 1 L0 6 L-9 1 Z" fill="#627EEA"/>
+    <path d="M0 8 L9 3 L0 14 L-9 3 Z" fill="#8A9CF0"/>
+  </g>
+  <text x="72" y="21" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" letter-spacing="0.2" fill="#3C3C7E">Ethereum</text>
+</svg>
